@@ -1,0 +1,120 @@
+h1{
+    color: rgb(165, 126, 53);
+    font-size: 50px;
+    font-family:cursive;
+    margin-left: 450px;
+}
+
+
+
+li{
+    font-family:cursive;
+}
+
+p{
+    font-family:cursive;
+}
+
+
+
+.Cabecalho{
+    background-color:rgb(235, 190, 134);
+    display:flex;
+    padding: 50px;
+    justify-content:space-between;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#ffffff;
+}
+
+.Cabecalho a{
+    padding:-300px;
+    padding-top:50px;
+    padding-right:120px;
+    padding-bottom: 100px;
+    margin-right:-300px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.Cabecalho a:link{
+    color:rgb(177, 140, 60);
+}
+
+.Cabecalho a:visited{
+    color:rgb(155, 135, 70);
+}
+
+.Cabecalho a:hover{
+    color:rgb(95, 63, 3);
+    filter:drop-shadow(2px 2px 4px rgb(114, 65, 1));
+}
+
+.menu{
+    padding-top:45px;
+
+}
+
+.menu a{
+    color:rgb(177, 140, 60);
+
+}
+
+
+.menu a{
+    color:rgb(151, 103, 12);
+    filter:drop-shadow(2px 2px 4px rgb(114, 65, 1));
+
+}
+
+.bodyimg{
+    
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+.bodyimg p{
+    color:rgb(104, 74, 0);
+    display:flex;
+    margin-top: -370px;
+    margin-left: 510px;
+    justify-content:space-between;
+    font-size: 30px
+}
+
+.bodyimg h3{
+    color:rgb(104, 74, 0);
+    display:flex;
+    margin-top: -240px;
+    margin-left: 200px;
+    justify-content:space-between;
+    font-size: 25px;
+}
+
+.grid{
+    display:flex;
+     flex-wrap:wrap;
+     justify-content: space-evenly;
+     margin: 50px;
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: rgb(253, 236, 214);
+    padding: 30px;
+    margin: 10px;
+    width: 300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+  body{
+    margin: 0px;
+    background-color: rgb(253, 236, 215);
+}
+
